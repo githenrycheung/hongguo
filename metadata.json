@@ -1,0 +1,6 @@
+{
+  "name": "红果短剧TV",
+  "description": "红果短剧 Android TV 大屏播放器，支持剪贴板自动监听解析、剧集点播及简洁遥控器操作",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
